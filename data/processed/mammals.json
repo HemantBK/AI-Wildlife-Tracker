@@ -1,0 +1,7403 @@
+[
+  {
+    "species_id": 2432329,
+    "scientific_name": "Murina cyclotis",
+    "common_names": [
+      "Round-eared Tube-nosed Bat",
+      "Ratonero narizudo de orejas redondas"
+    ],
+    "primary_name": "Round-eared Tube-nosed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Meghalaya",
+      "Andhra Pradesh",
+      "Assam",
+      "Tamil Nadu"
+    ],
+    "observation_count": 19,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432329",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432380,
+    "scientific_name": "Harpiocephalus harpia",
+    "common_names": [
+      "Hairy-winged Bat",
+      "Lesser Hairy-winged Bat",
+      "Ratonero de alas pilosas"
+    ],
+    "primary_name": "Hairy-winged Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Harpiocephalus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Meghalaya",
+      "Andhra Pradesh",
+      "Kerala"
+    ],
+    "observation_count": 17,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432380",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432278,
+    "scientific_name": "Scotomanes ornatus",
+    "common_names": [
+      "Scotomano arlequin",
+      "Harlequin Bat",
+      "Scotomano"
+    ],
+    "primary_name": "Scotomano arlequin",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Scotomanes"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Assam",
+      "Nagaland",
+      "West Bengal"
+    ],
+    "observation_count": 7,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432278",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432388,
+    "scientific_name": "Myotis horsfieldii",
+    "common_names": [
+      "Common Asiatic Myotis",
+      "Horsfield's bat",
+      "Horsfield's Bat",
+      "Horsfield’s Myotis",
+      "Horsfield's Myotis"
+    ],
+    "primary_name": "Common Asiatic Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Andaman and Nicobar"
+    ],
+    "observation_count": 6,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432388",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432443,
+    "scientific_name": "Myotis formosus",
+    "common_names": [
+      "Black-and-orange Myotis",
+      "Bartel's Myotis",
+      "Hodgson's Myotis",
+      "Hodgson's Bat",
+      "Hodgson's bat"
+    ],
+    "primary_name": "Black-and-orange Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Meghalaya",
+      "Madhya Pradesh",
+      "Karnataka",
+      "Manipur"
+    ],
+    "observation_count": 6,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432443",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432344,
+    "scientific_name": "Tylonycteris robustula",
+    "common_names": [
+      "Tilonicterio",
+      "Tilonicterio robusto",
+      "Greater Flat-headed Bat",
+      "Sumatran Greater Bamboo Bat",
+      "Greater Bamboo Bat"
+    ],
+    "primary_name": "Tilonicterio",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Tylonycteris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Andaman and Nicobar Islands"
+    ],
+    "observation_count": 5,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432344",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432467,
+    "scientific_name": "Myotis longipes",
+    "common_names": [
+      "Ratonero de Cachemira",
+      "Kashmir Cave Bat",
+      "Kashmir cave bat",
+      "Kashmir Cave Myotis"
+    ],
+    "primary_name": "Ratonero de Cachemira",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "observation_count": 5,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432467",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432324,
+    "scientific_name": "Murina aurata",
+    "common_names": [
+      "Tibetan Tube-nosed Bat",
+      "Litde Tube-nosed Bat",
+      "Little Tube-nosed Bat",
+      "Ratonero narizudo dorado"
+    ],
+    "primary_name": "Tibetan Tube-nosed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Meghalaya",
+      "Uttarakhand"
+    ],
+    "observation_count": 5,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432324",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432465,
+    "scientific_name": "Myotis sicarius",
+    "common_names": [
+      "Mandelli's Mouse-eared Myotis",
+      "Ratonero de Sikkim",
+      "Mandelli's Myotis",
+      "Mandelli’s Myotis",
+      "Mandelli's mouse-eared bat"
+    ],
+    "primary_name": "Mandelli's Mouse-eared Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Sikkim",
+      "Uttarakhand"
+    ],
+    "observation_count": 4,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432465",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432449,
+    "scientific_name": "Myotis siligorensis",
+    "common_names": [
+      "Siliguri Bat",
+      "Ratonero de Siliguri",
+      "Himalayan Whiskered Bat",
+      "Himalayan whiskered bat",
+      "Himalayan Whiskered Myotis"
+    ],
+    "primary_name": "Siliguri Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Meghalaya",
+      "Uttar Pradesh",
+      "Assam"
+    ],
+    "observation_count": 4,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432449",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432506,
+    "scientific_name": "Miniopterus pusillus",
+    "common_names": [
+      "Nicobar Long-fingered Bat",
+      "Miniéptero",
+      "Miniéptero enano",
+      "Small Bent-winged Bat",
+      "Nicobar Bent-winged Bat"
+    ],
+    "primary_name": "Nicobar Long-fingered Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Miniopteridae",
+      "genus": "Miniopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Andaman and Nicobar Islands"
+    ],
+    "observation_count": 4,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432506",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432429,
+    "scientific_name": "Myotis muricola",
+    "common_names": [
+      "Nepalese Whiskered Myotis",
+      "Whiskered Bat",
+      "Nepalese Whiskered Bat",
+      "whiskered myotis",
+      "Ratonero de Gray"
+    ],
+    "primary_name": "Nepalese Whiskered Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "observation_count": 3,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432429",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432503,
+    "scientific_name": "Miniopterus magnater",
+    "common_names": [
+      "Miniéptero grande",
+      "Miniéptero",
+      "Large Long-fingered Bat",
+      "Large Bent-winged Bat",
+      "Western Bent-winged Bat"
+    ],
+    "primary_name": "Miniéptero grande",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Miniopteridae",
+      "genus": "Miniopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Meghalaya",
+      "Assam"
+    ],
+    "observation_count": 3,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432503",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432334,
+    "scientific_name": "Scotoecus pallidus",
+    "common_names": [
+      "Scotoeco de Asia",
+      "Desert Yellow House Bat",
+      "Desert Yellow Lesser House Bat",
+      "Scotoeco",
+      "Desert Yellow Bat"
+    ],
+    "primary_name": "Scotoeco de Asia",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Scotoecus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Himachal Pradesh"
+    ],
+    "observation_count": 2,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432334",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432343,
+    "scientific_name": "Tylonycteris pachypus",
+    "common_names": [
+      "Lesser Flat-headed Bat",
+      "Sunda Lesser Bamboo Bat",
+      "Club-footed Bat",
+      "Lesser Bamboo Bat",
+      "Flat-headed Bat"
+    ],
+    "primary_name": "Lesser Flat-headed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Tylonycteris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 1,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432343",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432332,
+    "scientific_name": "Murina tubinaris",
+    "common_names": [
+      "Scully’s Tube-nosed Bat",
+      "Ratonero narizudo de Scully",
+      "Scully's Tube-nosed Bat"
+    ],
+    "primary_name": "Scully’s Tube-nosed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Himachal Pradesh"
+    ],
+    "observation_count": 1,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432332",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432459,
+    "scientific_name": "Myotis montivagus",
+    "common_names": [
+      "Ratonero bigotudo de Birmania",
+      "Large Brown Myotis",
+      "Burmese Whiskered Bat",
+      "Burmese Whiskered Myotis",
+      "Burmese whiskered bat"
+    ],
+    "primary_name": "Ratonero bigotudo de Birmania",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 1,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432459",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432361,
+    "scientific_name": "Eptesicus tatei",
+    "common_names": [
+      "Eptesicus de Tate",
+      "Sombre Bat",
+      "Sombre Serotine"
+    ],
+    "primary_name": "Eptesicus de Tate",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 1,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432361",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432414,
+    "scientific_name": "Myotis blythii",
+    "common_names": [
+      "Lesser Myotis",
+      "Lesser Mouse-eared Bat",
+      "Lesser Mouse-eared Myotis"
+    ],
+    "primary_name": "Lesser Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Himachal Pradesh"
+    ],
+    "observation_count": 1,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432414",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432428,
+    "scientific_name": "Myotis frater",
+    "common_names": [
+      "Ratonero fraile",
+      "Long-tailed Whiskered Bat",
+      "Fraternal Myotis"
+    ],
+    "primary_name": "Ratonero fraile",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [
+      "Uttarakhand"
+    ],
+    "observation_count": 1,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432428",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432178,
+    "scientific_name": "Chrysochloris stuhlmanni",
+    "common_names": [
+      "Stuhlmanns golden mole",
+      "Stuhlmann's golden mole",
+      "Stuhlmann s Golden Mole",
+      "Stuhlmann's Golden Mole",
+      "Stuhlmann’s Golden Mole"
+    ],
+    "primary_name": "Stuhlmanns golden mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Chrysochloris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432178",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432184,
+    "scientific_name": "Calcochloris tytonis",
+    "common_names": [
+      "Somali Golden Mole"
+    ],
+    "primary_name": "Somali Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Calcochloris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432184",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432111,
+    "scientific_name": "Oryzorictes tetradactylus",
+    "common_names": [
+      "Four-toed rice tenrec",
+      "Four-toed Mole Tenrec",
+      "Four-toed Rice Tenrec",
+      "Tenrec de los arrozales tetradactilo",
+      "Oryzoricte a quatre doigts"
+    ],
+    "primary_name": "Four-toed rice tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Oryzorictes"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432111",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432121,
+    "scientific_name": "Microgale cowani",
+    "common_names": [
+      "Cowan-Kleintenrek",
+      "Cowan's Shrew Tenrec",
+      "Cowan's shrew tenrec",
+      "Microgale de Cowan",
+      "Forimenjy"
+    ],
+    "primary_name": "Cowan-Kleintenrek",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "Cowan's shrew tenrec (Microgale cowani) is a species of mammal in the family Tenrecidae.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432121",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cowan's_shrew_tenrec",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432302,
+    "scientific_name": "Histiotus alienus",
+    "common_names": [
+      "Strange Big-eared Brown Bat",
+      "Histiotus de Santa Catarina"
+    ],
+    "primary_name": "Strange Big-eared Brown Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Histiotus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432302",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432301,
+    "scientific_name": "Histiotus velatus",
+    "common_names": [
+      "Tropical Big-eared Brown Bat",
+      "Histiotus tropical"
+    ],
+    "primary_name": "Tropical Big-eared Brown Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Histiotus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432301",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432491,
+    "scientific_name": "Corynorhinus rafinesquii",
+    "common_names": [
+      "Eastern Long-eared Bat",
+      "Eastern Big-eared Bat",
+      "Eastern Lump-nosed Bat",
+      "Orejudo de Rafinesque",
+      "Rafinesque's Big-eared Bat"
+    ],
+    "primary_name": "Eastern Long-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Corynorhinus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "Rafinesque's big-eared bat (Corynorhinus rafinesquii), sometimes known as the southeastern big-eared bat, is a species of vesper bat native to the southeastern United States.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432491",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rafinesque's_big-eared_bat",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432516,
+    "scientific_name": "Nyctophilus walkeri",
+    "common_names": [
+      "Pygmy Long-eared Bat",
+      "Nictofila de Walker"
+    ],
+    "primary_name": "Pygmy Long-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Nyctophilus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432516",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432386,
+    "scientific_name": "Myotis velifer",
+    "common_names": [
+      "Ratonero de las cavernas",
+      "Cave Myotis",
+      "cave myotis"
+    ],
+    "primary_name": "Ratonero de las cavernas",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432386",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432514,
+    "scientific_name": "Glischropus tylopus",
+    "common_names": [
+      "Common Thick-thumbed Bat",
+      "Pipistrela de Dobson"
+    ],
+    "primary_name": "Common Thick-thumbed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Glischropus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432514",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432129,
+    "scientific_name": "Microgale dobsoni",
+    "common_names": [
+      "Dobson's Shrew Tenrec",
+      "Dobson's shrew tenrec"
+    ],
+    "primary_name": "Dobson's Shrew Tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "Dobson's shrew tenrec (Nesogale dobsoni) is a species of mammal in the family Tenrecidae. It is endemic to Madagascar. Its natural habitats are subtropical or tropical moist forests, plantations, and heavily degraded former forest. On the basis of molecular data indicating that it and Talazac's shrew tenrec form a sister group to the rest of Microgale, these two species were transferred from Microgale to Nesogale in 2016.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432129",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dobson's_shrew_tenrec",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432441,
+    "scientific_name": "Myotis planiceps",
+    "common_names": [
+      "Flat-headed Myotis",
+      "Ratonero de cabeza plana"
+    ],
+    "primary_name": "Flat-headed Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432441",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432454,
+    "scientific_name": "Myotis pequinius",
+    "common_names": [
+      "Peking Myotis",
+      "Ratonero de Pekin"
+    ],
+    "primary_name": "Peking Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432454",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432461,
+    "scientific_name": "Myotis yumanensis",
+    "common_names": [
+      "Yuma Myotis",
+      "Ratonero de Yuma"
+    ],
+    "primary_name": "Yuma Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432461",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432155,
+    "scientific_name": "Eremitalpa granti",
+    "common_names": [
+      "Grant's Golden Mole",
+      "Grant s Golden Mole",
+      "Grants golden mole",
+      "Grant's golden mole",
+      "Grant’s Desert Golden Mole"
+    ],
+    "primary_name": "Grant's Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Eremitalpa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432155",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432409,
+    "scientific_name": "Myotis martiniquensis",
+    "common_names": [
+      "Ratonero de Schwartz",
+      "Schwartz's Myotis"
+    ],
+    "primary_name": "Ratonero de Schwartz",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432409",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432325,
+    "scientific_name": "Murina fusca",
+    "common_names": [
+      "Dusky Tube-nosed Bat",
+      "Ratonero narizudo oscuro"
+    ],
+    "primary_name": "Dusky Tube-nosed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432325",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432426,
+    "scientific_name": "Myotis pruinosus",
+    "common_names": [
+      "Frosted Myotis",
+      "Blackish \\\\ Whiskered Bat",
+      "Blackish Whiskered Bat",
+      "Blackish",
+      "Blackish \\ Whiskered Bat"
+    ],
+    "primary_name": "Frosted Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432426",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432143,
+    "scientific_name": "Hemicentetes semispinosus",
+    "common_names": [
+      "Lowland Streaked Tenrec",
+      "Streaked tenrec",
+      "Lowland streaked tenrec",
+      "streaked tenrec"
+    ],
+    "primary_name": "Lowland Streaked Tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Hemicentetes"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432143",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432396,
+    "scientific_name": "Myotis elegans",
+    "common_names": [
+      "Ratonero elegante",
+      "Elegant Myotis"
+    ],
+    "primary_name": "Ratonero elegante",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432396",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432321,
+    "scientific_name": "Murina puta",
+    "common_names": [
+      "Ratonero narizudo de Taiwan",
+      "Taiwan Tube-nosed Bat",
+      "Taiwanese Tube-nosed Bat"
+    ],
+    "primary_name": "Ratonero narizudo de Taiwan",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432321",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432398,
+    "scientific_name": "Myotis ridleyi",
+    "common_names": [
+      "Ratonero de Ridley",
+      "Ridley-Langful 3 fledermaus",
+      "Ridley's Myotis",
+      "Ridley's Bat",
+      "Ridley's bat"
+    ],
+    "primary_name": "Ratonero de Ridley",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432398",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432424,
+    "scientific_name": "Myotis albescens",
+    "common_names": [
+      "Silver-tipped Myotis",
+      "Ratonero cenizo",
+      "Silver-Tipped Myotis",
+      "Silver-upped Myotis"
+    ],
+    "primary_name": "Silver-tipped Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432424",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432198,
+    "scientific_name": "Chrysospalax trevelyani",
+    "common_names": [
+      "Giant golden mole",
+      "Topo dorado gigante",
+      "Giant Golden Mole"
+    ],
+    "primary_name": "Giant golden mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Chrysospalax"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432198",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432151,
+    "scientific_name": "Geogale aurita",
+    "common_names": [
+      "Erdtenrek",
+      "Large-eared Tenrec",
+      "Large-eared tenrec",
+      "Tenrec de orejas grandes",
+      "Géogale"
+    ],
+    "primary_name": "Erdtenrek",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Geogale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432151",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432406,
+    "scientific_name": "Myotis lucifugus",
+    "common_names": [
+      "Little Brown Bat",
+      "Little Brown Bat, Little Brown Myotis",
+      "Little Brown Myotis",
+      "Kleines Nordamerika-mausohr",
+      "Little Brown Bat or Myotis"
+    ],
+    "primary_name": "Little Brown Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432406",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432395,
+    "scientific_name": "Myotis annectans",
+    "common_names": [
+      "Hairy-faced Myotis",
+      "Intermediate Bat",
+      "Ratonero peludo",
+      "Hairy-faced Bat"
+    ],
+    "primary_name": "Hairy-faced Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "The hairy-faced bat (Myotis annectans) is a species of vesper bat.\nIt can be found in the following countries: Bangladesh, India, Indonesia, Laos, Myanmar, and Thailand.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432395",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hairy-faced_bat",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432453,
+    "scientific_name": "Myotis macrodactylus",
+    "common_names": [
+      "Japanese Large-footed Bat",
+      "Ratonero macrodactilo",
+      "Big-footed Myotis"
+    ],
+    "primary_name": "Japanese Large-footed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432453",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432466,
+    "scientific_name": "Myotis cobanensis",
+    "common_names": [
+      "Ratonero de Guatemala",
+      "Guatemalan Myotis"
+    ],
+    "primary_name": "Ratonero de Guatemala",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432466",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432507,
+    "scientific_name": "Miniopterus inflatus",
+    "common_names": [
+      "Greater Long-fingered Bat",
+      "Miniéptero gigante",
+      "Greater Bent-winged Bat",
+      "Miniéptero"
+    ],
+    "primary_name": "Greater Long-fingered Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Miniopteridae",
+      "genus": "Miniopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432507",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432400,
+    "scientific_name": "Myotis hasseltii",
+    "common_names": [
+      "Lesser Large-tooth Bat",
+      "Lesser Large-footed Myotis",
+      "Hasselt's Large-footed Myotis",
+      "Lasiwen Kaki-besar Hasselt",
+      "Brown Bat"
+    ],
+    "primary_name": "Lesser Large-tooth Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432400",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432283,
+    "scientific_name": "Chalinolobus dwyeri",
+    "common_names": [
+      "Large Pied Bat",
+      "Calinolobo de Dwyer",
+      "Large-eared Pied Bat"
+    ],
+    "primary_name": "Large Pied Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Chalinolobus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432283",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432173,
+    "scientific_name": "Neamblysomus julianae",
+    "common_names": [
+      "Juliana s Golden Mole",
+      "Juliana's Golden Mole",
+      "Juliana’s Golden Mole",
+      "Topo dorado de Juliana"
+    ],
+    "primary_name": "Juliana s Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Neamblysomus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432173",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432416,
+    "scientific_name": "Myotis myotis",
+    "common_names": [
+      "Greater Mouse-eared Bat",
+      "Greater mouse-eared bat",
+      "Greater Myotis"
+    ],
+    "primary_name": "Greater Mouse-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432416",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432123,
+    "scientific_name": "Microgale parvula",
+    "common_names": [
+      "Pgymy shrew tenrec",
+      "Tenrec musarana pigmea",
+      "Microgale pygmée",
+      "Pygmy Shrew Tenrec",
+      "Zwergkleintenrek"
+    ],
+    "primary_name": "Pgymy shrew tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432123",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432394,
+    "scientific_name": "Myotis vivesi",
+    "common_names": [
+      "Ratonero pescador",
+      "Fish-eating Bat",
+      "Fish-eating Myotis"
+    ],
+    "primary_name": "Ratonero pescador",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "Myotis vivesi, the fish-eating bat or fish-eating myotis, is a species of bat that lives around the Gulf of California, and feeds on fish and crustaceans. It is the largest species of the genus Myotis in the Americas, and has exceptionally large feet, which it uses in hunting. It was described in 1901 by Auguste Ménégaux. It was previously considered the only member of the Myotis subgenus Pizonyx, but Pizonyx is now considered to contain all American Myotis species, along with two Eurasian ones.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "Myotis vivesi feeds chiefly on marine fish Only one other bat species, Noctilio leporinus, hunts in marine waters.\nThe guano produced by M. vivesi is red if it has eaten crustaceans, and black if it has eaten fish; green guano and brown guano result from feeding on algae and insects, respectively. M. vivesi inhabits an arid environment and has evolved the ability to concentrate its urine; this allows it to survive by drinking seawater.\n\nM. vivesi prefers to roost either in caves or under rocks revealed by landslides.",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432394",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Myotis_vivesi",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432136,
+    "scientific_name": "Microgale brevicaudata",
+    "common_names": [
+      "Microgale a queue courte",
+      "Short-tailed Shrew Tenrec",
+      "Short-tailed shrew tenrec",
+      "Tenrec musarana de cola corta",
+      "Kurzschwanz-Kleintenrek"
+    ],
+    "primary_name": "Microgale a queue courte",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432136",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432140,
+    "scientific_name": "Micropotamogale lamottei",
+    "common_names": [
+      "Nimba otter shrew",
+      "Nimba Otter Shrew",
+      "Pygmy Otter-shrew",
+      "Nimba Otter-shrew",
+      "Pygmy Ottershrew"
+    ],
+    "primary_name": "Nimba otter shrew",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Micropotamogale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432140",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432460,
+    "scientific_name": "Myotis rosseti",
+    "common_names": [
+      "Ratonero de Rosset",
+      "Thick-thumbed Myotis"
+    ],
+    "primary_name": "Ratonero de Rosset",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432460",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432378,
+    "scientific_name": "Eptesicus pachyotis",
+    "common_names": [
+      "Botakane badur",
+      "Eptesicus de orejas gruesas",
+      "Thick-eared Serotine",
+      "Thick-eared Bat"
+    ],
+    "primary_name": "Botakane badur",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432378",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432335,
+    "scientific_name": "Scotoecus hirundo",
+    "common_names": [
+      "Dark-winged Lesser House Bat",
+      "Scotoeco",
+      "Scotoeco de alas negras",
+      "White-bellied Lesser House Bat",
+      "Hinde's Lesser House Bat"
+    ],
+    "primary_name": "Dark-winged Lesser House Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Scotoecus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432335",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432275,
+    "scientific_name": "Rhogeessa mira",
+    "common_names": [
+      "Rogesa menuda",
+      "Rogesa",
+      "Least Yellow Bat"
+    ],
+    "primary_name": "Rogesa menuda",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Rhogeessa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432275",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432457,
+    "scientific_name": "Myotis atacamensis",
+    "common_names": [
+      "Atacaman Myotis",
+      "Ratonero de Atacama",
+      "Atacama Myotis"
+    ],
+    "primary_name": "Atacaman Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432457",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432199,
+    "scientific_name": "Chrysospalax villosus",
+    "common_names": [
+      "Rough-haired golden mole",
+      "Rough-haired Golden Mole",
+      "Topo dorado de pelaje aspero"
+    ],
+    "primary_name": "Rough-haired golden mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Chrysospalax"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432199",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432438,
+    "scientific_name": "Myotis auriculus",
+    "common_names": [
+      "Ratonero de México",
+      "Southwestern Myotis",
+      "South-western Myotis"
+    ],
+    "primary_name": "Ratonero de México",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432438",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432281,
+    "scientific_name": "Philetor brachypterus",
+    "common_names": [
+      "Narrow-winged Brown Bat",
+      "Rohu's Bat",
+      "Rohu’s Bat",
+      "Narrow-winged Pipistrelle",
+      "Short-winged Pipistrelle"
+    ],
+    "primary_name": "Narrow-winged Brown Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Philetor"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432281",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432323,
+    "scientific_name": "Murina ussuriensis",
+    "common_names": [
+      "Ussurian Tube-nosed Bat",
+      "Ussuri Tube-nosed Bat",
+      "Lesser Tube-nosed Bat",
+      "Ratonero narizudo de Ussuri"
+    ],
+    "primary_name": "Ussurian Tube-nosed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432323",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432425,
+    "scientific_name": "Myotis californicus",
+    "common_names": [
+      "Californian Myotis",
+      "California Myotis",
+      "Ratonero de California"
+    ],
+    "primary_name": "Californian Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432425",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432131,
+    "scientific_name": "Microgale principula",
+    "common_names": [
+      "Greater Long-tailed Shrew Tenrec",
+      "GroRer Langschwanz-Kleintenrek",
+      "Tenrec musarana de cola larga mayor",
+      "Greater long-tailed shrew tenrec",
+      "Grand Microgale"
+    ],
+    "primary_name": "Greater Long-tailed Shrew Tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432131",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432372,
+    "scientific_name": "Eptesicus diminutus",
+    "common_names": [
+      "Eptesicus pequeno",
+      "Diminutive Serotine"
+    ],
+    "primary_name": "Eptesicus pequeno",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432372",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432322,
+    "scientific_name": "Murina suilla",
+    "common_names": [
+      "Lesser Tube-nosed Bat",
+      "Brown Tube-nosed Bat",
+      "Ratonero narizudo marron"
+    ],
+    "primary_name": "Lesser Tube-nosed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432322",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432328,
+    "scientific_name": "Murina tenebrosa",
+    "common_names": [
+      "Ratonero narizudo cenizo",
+      "Gloomy Tube-nosed Bat",
+      "Tsushima Tube-nosed Bat"
+    ],
+    "primary_name": "Ratonero narizudo cenizo",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432328",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432139,
+    "scientific_name": "Micropotamogale ruwenzorii",
+    "common_names": [
+      "Rwenzori Otter Shrew",
+      "Ruwenzori Otter Shrew",
+      "Ruwenzori otter shrew",
+      "Musarana nutria de Rwenzori",
+      "Rwenzor Otter-shrew"
+    ],
+    "primary_name": "Rwenzori Otter Shrew",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Micropotamogale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432139",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432523,
+    "scientific_name": "Nyctophilus arnhemensis",
+    "common_names": [
+      "Arnhem Long-eared Bat",
+      "Nictofila de Arnhem",
+      "Northern Long-eared Bat"
+    ],
+    "primary_name": "Arnhem Long-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Nyctophilus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432523",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432421,
+    "scientific_name": "Myotis fortidens",
+    "common_names": [
+      "Ratonero dentudo",
+      "Cinnamon Myotis"
+    ],
+    "primary_name": "Ratonero dentudo",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432421",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432427,
+    "scientific_name": "Myotis bechsteinii",
+    "common_names": [
+      "Bechstein's bat",
+      "Bechstein's Myotis",
+      "Bechstein's Bat",
+      "Bechstein’s Myotis"
+    ],
+    "primary_name": "Bechstein's bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432427",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432522,
+    "scientific_name": "Nyctophilus microdon",
+    "common_names": [
+      "Small-toothed Long-eared Bat",
+      "Nictofila de dientes pequenos",
+      "Small-toothed Bat",
+      "Nictofila"
+    ],
+    "primary_name": "Small-toothed Long-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Nyctophilus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432522",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432455,
+    "scientific_name": "Myotis leibii",
+    "common_names": [
+      "Murin De Leib",
+      "Eastern Small-footed Bat",
+      "Ostliches Kleinfur-mausohr",
+      "Ratonero De Leib",
+      "Eastern Small-footed Myotis"
+    ],
+    "primary_name": "Murin De Leib",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "The eastern small-footed bat (Myotis leibii) is a species of vesper bat. It can be found in southern Ontario and Quebec in Canada and in mountainous portions of the eastern United States from New England to northern Georgia, and westward to northern Arkansas.  It is among the smallest bats in eastern North America and is known for its small feet and black face-mask. Until recently, all North American small-footed Myotis were considered to be \"Myotis leibii\". The western population is now considered to be a separate species, Myotis ciliolabrum. The eastern small-footed bat is rare throughout its range, although the species may be locally abundant where suitable habitat exists. Studies suggest white-nose syndrome has caused declines in their populations. However, most occurrences of this species have only been counted within the past decade or two and are not revisited regularly, making their population status difficult to assess. Additionally, most bat populations in the eastern U.S. have been monitored using surveys conducted in caves and mines in the winter, but eastern small-footed bats hibernate in places that make them unlikely to be encountered during these surveys.  Perhaps as a result, the numbers of eastern small-footed bats counted in winter tend to be low and they are relatively variable compared to other species of bats. Many biologists believe the species is stable, having declined little in recent times, but that it is vulnerable due to its relatively restricted geographic range and habitat needs.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432455",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Eastern_small-footed_myotis",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432417,
+    "scientific_name": "Myotis schaubi",
+    "common_names": [
+      "Ratonero de Schaub",
+      "Schaub’s Myotis",
+      "Schaub's Myotis"
+    ],
+    "primary_name": "Ratonero de Schaub",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432417",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432479,
+    "scientific_name": "Corynorhinus townsendii",
+    "common_names": [
+      "mule-eared bat",
+      "Lump-nosed bat",
+      "Pacific Townsend's big-eared bat",
+      "Orejudo de Townsend",
+      "Townsend's Big-eared Bat"
+    ],
+    "primary_name": "mule-eared bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Corynorhinus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "Townsend's big-eared bat (Corynorhinus townsendii) is a species of vesper bat.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432479",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Townsend's_big-eared_bat",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432145,
+    "scientific_name": "Limnogale mergulus",
+    "common_names": [
+      "aquatic tenrec",
+      "Water tenrec",
+      "web-footed tenrec",
+      "Web-footed Tenrec"
+    ],
+    "primary_name": "aquatic tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Limnogale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432145",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432299,
+    "scientific_name": "Histiotus montanus",
+    "common_names": [
+      "Histiotus montano",
+      "Small Big-eared Brown Bat"
+    ],
+    "primary_name": "Histiotus montano",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Histiotus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432299",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432407,
+    "scientific_name": "Myotis altarium",
+    "common_names": [
+      "South-western Mouse-eared Bat",
+      "Sichuan Myotis",
+      "Ratonero de Sichuan",
+      "Szechwan Myotis",
+      "Sichuan Myous"
+    ],
+    "primary_name": "South-western Mouse-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432407",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432181,
+    "scientific_name": "Chrysochloris visagiei",
+    "common_names": [
+      "Visagie s Golden Mole",
+      "Visagie's Golden Mole",
+      "Visagies golden mole",
+      "Visagie's golden mole"
+    ],
+    "primary_name": "Visagie s Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Chrysochloris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432181",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432451,
+    "scientific_name": "Myotis austroriparius",
+    "common_names": [
+      "South-eastern Myotis",
+      "Ratonero del Misisipi",
+      "Southeastern Myotis"
+    ],
+    "primary_name": "South-eastern Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432451",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432464,
+    "scientific_name": "Myotis nesopolus",
+    "common_names": [
+      "Curaçao Myotis",
+      "Ratonero de Curacao",
+      "Curacao Myotis",
+      "Raton di anochi"
+    ],
+    "primary_name": "Curaçao Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432464",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432127,
+    "scientific_name": "Microgale nasoloi",
+    "common_names": [
+      "Nasolo s Shrew Tenrec",
+      "Microgale de Nasolo",
+      "Nasolo's Shrew Tenrec",
+      "Nasolo’s Shrew Tenrec",
+      "Nasolo-Kleintenrek"
+    ],
+    "primary_name": "Nasolo s Shrew Tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432127",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432134,
+    "scientific_name": "Microgale monticola",
+    "common_names": [
+      "Mountain Shrew Tenrec",
+      "Montane Shrew Tenrec"
+    ],
+    "primary_name": "Mountain Shrew Tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432134",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432362,
+    "scientific_name": "Eptesicus furinalis",
+    "common_names": [
+      "Eptesicus de Argentina",
+      "Argentinian Brown Bat",
+      "Argentine Serotine",
+      "Argentine Brown Bat"
+    ],
+    "primary_name": "Eptesicus de Argentina",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432362",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432420,
+    "scientific_name": "Myotis keaysi",
+    "common_names": [
+      "Ratonero de Keays",
+      "Hairy-legged Myotis",
+      "Southern Hairy-legged Myotis"
+    ],
+    "primary_name": "Ratonero de Keays",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432420",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432112,
+    "scientific_name": "Oryzorictes hova",
+    "common_names": [
+      "Eigentlicher Reiswthler",
+      "Hova Mole Tenrec",
+      "Hova Rice Tenrec",
+      "Fossorial Tenrec",
+      "Hova rice tenrec"
+    ],
+    "primary_name": "Eigentlicher Reiswthler",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Oryzorictes"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432112",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432318,
+    "scientific_name": "Murina aenea",
+    "common_names": [
+      "Bronze Tube-nosed Bat",
+      "Ratonero narizudo laton"
+    ],
+    "primary_name": "Bronze Tube-nosed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432318",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432411,
+    "scientific_name": "Myotis volans",
+    "common_names": [
+      "Hairy-winged Myotis",
+      "Ratonero de patas largas",
+      "Long-legged Myotis"
+    ],
+    "primary_name": "Hairy-winged Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432411",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432450,
+    "scientific_name": "Myotis adversus",
+    "common_names": [
+      "Grey Large-footed Bat",
+      "Large-footed Bat",
+      "Gray Large-footed Myotis",
+      "Gray Large-footed Bat",
+      "Large-footed Mouse-eared Bat"
+    ],
+    "primary_name": "Grey Large-footed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432450",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432447,
+    "scientific_name": "Myotis insularum",
+    "common_names": [
+      "Insular Myotis",
+      "Ratonero de Samoa"
+    ],
+    "primary_name": "Insular Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432447",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432502,
+    "scientific_name": "Miniopterus robustior",
+    "common_names": [
+      "Loyalty Bentwing-bat",
+      "Bwaxuvic",
+      "Loyalty Long-fingered Bat",
+      "Loyalty Bent-winged Bat"
+    ],
+    "primary_name": "Loyalty Bentwing-bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Miniopteridae",
+      "genus": "Miniopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432502",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432215,
+    "scientific_name": "Chlorotalpa duthieae",
+    "common_names": [
+      "Duthie's Golden Mole",
+      "Duthie’s Golden Mole",
+      "Topo dorado de Duthie",
+      "Duthie s Golden Mole",
+      "Duthie's golden mole"
+    ],
+    "primary_name": "Duthie's Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Chlorotalpa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432215",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432306,
+    "scientific_name": "Laephotis botswanae",
+    "common_names": [
+      "Botswana long-eared bat",
+      "Laefotis",
+      "Botswana Long-eared Bat",
+      "Botswanan Long-eared Bat",
+      "Botswana Longeared"
+    ],
+    "primary_name": "Botswana long-eared bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Laephotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432306",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432508,
+    "scientific_name": "Miniopterus australis",
+    "common_names": [
+      "Little Bent-winged bat",
+      "Miniéptero",
+      "Bwaxuvic",
+      "Little Long-fingered Bat",
+      "Little Bent-winged Bat"
+    ],
+    "primary_name": "Little Bent-winged bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Miniopteridae",
+      "genus": "Miniopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432508",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432186,
+    "scientific_name": "Calcochloris leucorhinus",
+    "common_names": [
+      "Congo Golden Mole"
+    ],
+    "primary_name": "Congo Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Calcochloris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432186",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432276,
+    "scientific_name": "Rhogeessa gracilis",
+    "common_names": [
+      "Big-eared Yellow Bat",
+      "Rogesa gracil",
+      "Slender Yellow Bat",
+      "Rogesa"
+    ],
+    "primary_name": "Big-eared Yellow Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Rhogeessa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432276",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432436,
+    "scientific_name": "Myotis septentrionalis",
+    "common_names": [
+      "Murin Nordique",
+      "Nordamerika-mausohr",
+      "Northern Bat",
+      "Northern Long-eared Bat"
+    ],
+    "primary_name": "Murin Nordique",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432436",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432518,
+    "scientific_name": "Nyctophilus microtis",
+    "common_names": [
+      "Papuan Long-eared Bat",
+      "Nyctophile & petites oreilles",
+      "Nictofila",
+      "New Guinea Long-eared Bat",
+      "Nictofila de orejas pequenas"
+    ],
+    "primary_name": "Papuan Long-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Nyctophilus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432518",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432182,
+    "scientific_name": "Chrysochloris asiatica",
+    "common_names": [
+      "Cape Golden Mole",
+      "Cape golden mole",
+      "Topo dorado de El Cabo"
+    ],
+    "primary_name": "Cape Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Chrysochloris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432182",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432382,
+    "scientific_name": "Otonycteris hemprichii",
+    "common_names": [
+      "Desert Long-eared Bat",
+      "Common Desert Long-eared Bat",
+      "Desert Long-Eared Bat",
+      "Hemprich's Long-eared Bat",
+      "Hemprich's Desert Bat"
+    ],
+    "primary_name": "Desert Long-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Otonycteris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432382",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432505,
+    "scientific_name": "Miniopterus tristis",
+    "common_names": [
+      "Minidptero",
+      "Great Long-fingered Bat",
+      "Greater Bent-winged Bat",
+      "Minidptero tristis",
+      "Great Bent-winged Bat"
+    ],
+    "primary_name": "Minidptero",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Miniopteridae",
+      "genus": "Miniopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432505",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432527,
+    "scientific_name": "Mimetillus moloneyi",
+    "common_names": [
+      "Mimétilo de Moloney",
+      "Moloney's Flat-headed Bat",
+      "Moloney's Mimic Bat",
+      "Moloney's Flat-Headed Vesper Bat",
+      "Moloney's Flat-headed Vesper Bat"
+    ],
+    "primary_name": "Mimétilo de Moloney",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Mimetillus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "Mimetillus is a genus of vesper bat in the family Vespertilionidae. It contains two species, both known as mimic bats and found in sub-Saharan Africa.\nThere are two species in this genus:\n\nMoloney's mimic bat, Mimetillus moloneyi\nThomas's mimic bat, Mimetillus thomasi\nPreviously, Mimetillus was thought to be a monotypic genus containing only M. moloneyi, but phylogenetic evidence has found M. thomasi to be a distinct species.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432527",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mimetillus",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432530,
+    "scientific_name": "Hesperoptenus gaskelli",
+    "common_names": [
+      "Gaskell’s False Serotine",
+      "Hesperopteno de Gaskell",
+      "Gaskell's False Serotine"
+    ],
+    "primary_name": "Gaskell’s False Serotine",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Hesperoptenus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432530",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432175,
+    "scientific_name": "Neamblysomus gunningi",
+    "common_names": [
+      "Gunning’s Golden Mole",
+      "Topo dorado de Gunning",
+      "Gunning s Golden Mole",
+      "Gunning's Golden Mole"
+    ],
+    "primary_name": "Gunning’s Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Neamblysomus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432175",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432419,
+    "scientific_name": "Myotis chiloensis",
+    "common_names": [
+      "Ratonero de Chile",
+      "Chilean Myotis"
+    ],
+    "primary_name": "Ratonero de Chile",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432419",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432304,
+    "scientific_name": "Laephotis namibensis",
+    "common_names": [
+      "Namibian Long-eared Bat",
+      "Namib Long-eared Bat",
+      "Laefotis",
+      "Laefotis de Namibia",
+      "Namib Long-eared Serotine"
+    ],
+    "primary_name": "Namibian Long-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Laephotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432304",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432363,
+    "scientific_name": "Eptesicus hottentotus",
+    "common_names": [
+      "Eptesicus de cola larga",
+      "Long-tailed Greater Serotine Bat",
+      "Hottentot Serotine Bat",
+      "Long-tailed House Bat",
+      "Hottentot Bat"
+    ],
+    "primary_name": "Eptesicus de cola larga",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432363",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432353,
+    "scientific_name": "Eptesicus innoxius",
+    "common_names": [
+      "Eptesicus de Gervais",
+      "Harmless Serotine"
+    ],
+    "primary_name": "Eptesicus de Gervais",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432353",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432456,
+    "scientific_name": "Myotis ciliolabrum",
+    "common_names": [
+      "Westliches Kleinful 3 - Mausohr",
+      "Small-footed Myotis",
+      "Ratonero pigmeo",
+      "western small-footed bat",
+      "Western Small-footed Myotis"
+    ],
+    "primary_name": "Westliches Kleinful 3 - Mausohr",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432456",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432413,
+    "scientific_name": "Myotis evotis",
+    "common_names": [
+      "Long-eared Myotis",
+      "Ratonero de orejas largas",
+      "Western Long-eared Myotis",
+      "Western Long-eared Bat"
+    ],
+    "primary_name": "Long-eared Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432413",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432422,
+    "scientific_name": "Myotis oxyotus",
+    "common_names": [
+      "Ratonero montano",
+      "Montane Myotis"
+    ],
+    "primary_name": "Ratonero montano",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432422",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432314,
+    "scientific_name": "Nycticeius humeralis",
+    "common_names": [
+      "Nicticeo vesperino",
+      "Neuweltabendsegler",
+      "Black-shouldered Bat",
+      "Nicticeo",
+      "Evening Bat"
+    ],
+    "primary_name": "Nicticeo vesperino",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Nycticeius"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432314",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432517,
+    "scientific_name": "Nyctophilus gouldi",
+    "common_names": [
+      "Gould's Long-eared Bat",
+      "Nictofila de Gould",
+      "Gould’s Long-eared Bat"
+    ],
+    "primary_name": "Gould's Long-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Nyctophilus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432517",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432327,
+    "scientific_name": "Murina rozendaali",
+    "common_names": [
+      "Gilded Tube-nosed Bat",
+      "Ratonero narizudo de Rozendaal"
+    ],
+    "primary_name": "Gilded Tube-nosed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432327",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432295,
+    "scientific_name": "Chalinolobus morio",
+    "common_names": [
+      "Chocolate Lobe-lipped Bat",
+      "Chocolate Wattled Bat",
+      "Calinolobo chocolate",
+      "Chocolate Bat",
+      "Calinolobo"
+    ],
+    "primary_name": "Chocolate Lobe-lipped Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Chalinolobus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432295",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432207,
+    "scientific_name": "Carpitalpa arendsi",
+    "common_names": [
+      "Arend's Golden Mole",
+      "Arend’s Golden Mole",
+      "Topo dorado de Arends",
+      "Arend s Golden Mole"
+    ],
+    "primary_name": "Arend's Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Carpitalpa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432207",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432444,
+    "scientific_name": "Myotis morrisi",
+    "common_names": [
+      "Morris's Hairy Bat",
+      "Morris's Bat",
+      "Ratonero de Morris",
+      "Morris's bat",
+      "Morris's Myotis"
+    ],
+    "primary_name": "Morris's Hairy Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "Morris's bat (Myotis morrisi) is a species of vesper bat in the family Vespertilionidae.\nIt is found in Ethiopia and Nigeria.\nIts natural habitats are dry savanna, moist savanna, caves, and subterranean habitats (other than caves).",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432444",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Morris's_bat",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432305,
+    "scientific_name": "Laephotis wintoni",
+    "common_names": [
+      "De Winton's Long-eared Serotine",
+      "Laefotis de De Winton",
+      "De Winton's Long-eared Bat",
+      "Winton's Long-eared Bat",
+      "De Winton’s LLong-eared Bat"
+    ],
+    "primary_name": "De Winton's Long-eared Serotine",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Laephotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432305",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432448,
+    "scientific_name": "Myotis nigricans",
+    "common_names": [
+      "Little Black Bat",
+      "Ratón di anochi",
+      "Ratonero hollinoso",
+      "Black Myotis",
+      "Common Black Myotis"
+    ],
+    "primary_name": "Little Black Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432448",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432368,
+    "scientific_name": "Eptesicus brasiliensis",
+    "common_names": [
+      "Brazilian Serotine",
+      "Brazilian Brown Bat",
+      "Eptesicus de Brasil"
+    ],
+    "primary_name": "Brazilian Serotine",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432368",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432405,
+    "scientific_name": "Myotis tricolor",
+    "common_names": [
+      "Temminck's",
+      "Myotis",
+      "Cape Hairy Bat",
+      "Ratonero tricolor",
+      "Cape Myotis"
+    ],
+    "primary_name": "Temminck's",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "The Cape hairy bat, also known as  little brown bat, Temminck's mouse-eared bat, Cape myotis, tricoloured mouse-eared bat, Cape hairy myotis, Temminck's hairy bat and three-coloured bat  (Myotis tricolor) is a species of vesper bat that is found in Sub-Saharan Africa.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432405",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Cape_hairy_bat",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432445,
+    "scientific_name": "Myotis ruber",
+    "common_names": [
+      "Ratonero rojizo",
+      "Red Myotis"
+    ],
+    "primary_name": "Ratonero rojizo",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432445",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432125,
+    "scientific_name": "Microgale pusilla",
+    "common_names": [
+      "Least Shrew Tenrec",
+      "Lesser Shrew Tenrec"
+    ],
+    "primary_name": "Least Shrew Tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432125",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432359,
+    "scientific_name": "Eptesicus serotinus",
+    "common_names": [
+      "Big Brown Bat",
+      "Common Serotine Bat",
+      "Common Serotine",
+      "Eurasian Serotine"
+    ],
+    "primary_name": "Big Brown Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "The serotine bat (Cnephaeus serotinus), also known as the common serotine bat, big brown bat, or silky bat, is a fairly large Eurasian bat with quite large ears. It has a wingspan of around 37 cm (15 in) and often hunts in woodland.  It sometimes roosts in buildings, hanging upside down, in small groups or individually. The name serotine is derived from the Latin serotinus, which means 'evening', while the generic name derives from  Greek ἔπιεν and οίκος, which means 'house flyer'.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432359",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Serotine_bat",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432087,
+    "scientific_name": "Galeopterus variegatus",
+    "common_names": [
+      "Malayan Colugo",
+      "Flying Lemur",
+      "Colugo de Sonda",
+      "Javan Colugo",
+      "Bornean Colugo"
+    ],
+    "primary_name": "Malayan Colugo",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Dermoptera",
+      "family": "Cynocephalidae",
+      "genus": "Galeopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432087",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432271,
+    "scientific_name": "Rhogeessa minutilla",
+    "common_names": [
+      "Little Desert Bat",
+      "Tiny Yellow Bat",
+      "Rogesa de Miller"
+    ],
+    "primary_name": "Little Desert Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Rhogeessa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432271",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432511,
+    "scientific_name": "Miniopterus fuscus",
+    "common_names": [
+      "Southeast Asian Bent-winged Bat",
+      "Minioptero de Ryukyu",
+      "Ryukyu Long-fingered Bat",
+      "Ryukyu Bent-winged Bat",
+      "Japanese Long-fingered Bat"
+    ],
+    "primary_name": "Southeast Asian Bent-winged Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Miniopteridae",
+      "genus": "Miniopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432511",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432274,
+    "scientific_name": "Rhogeessa alleni",
+    "common_names": [
+      "Rogesa de Allen",
+      "Allen's Yellow Bat",
+      "Allen’s Yellow Bat"
+    ],
+    "primary_name": "Rogesa de Allen",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Rhogeessa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432274",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432210,
+    "scientific_name": "Chlorotalpa sclateri",
+    "common_names": [
+      "Topo dorado de Sclater",
+      "Sclater’s Golden Mole",
+      "Sclater's Golden Mole",
+      "Sclater s Golden Mole",
+      "Sclater's golden mole"
+    ],
+    "primary_name": "Topo dorado de Sclater",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Chlorotalpa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432210",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432128,
+    "scientific_name": "Microgale taiva",
+    "common_names": [
+      "Taiva Shrew Tenrec",
+      "Taiva-Kleintenrek",
+      "Microgale des Taivas",
+      "Tenrec musarana de Taiva"
+    ],
+    "primary_name": "Taiva Shrew Tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432128",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432319,
+    "scientific_name": "Murina florium",
+    "common_names": [
+      "Ratonero narizudo de Flores",
+      "Flute-nosed Bat",
+      "Tube-nosed Insectivorous Bat",
+      "Flores Tube-nosed Bat"
+    ],
+    "primary_name": "Ratonero narizudo de Flores",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432319",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432367,
+    "scientific_name": "Eptesicus platyops",
+    "common_names": [
+      "Lagos Serotine",
+      "Eptesicus de Lagos"
+    ],
+    "primary_name": "Lagos Serotine",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432367",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432285,
+    "scientific_name": "Chalinolobus nigrogriseus",
+    "common_names": [
+      "Frosted Bat",
+      "Calinolobo cenizo",
+      "Frosted Bat (rogersi)",
+      "Eastern Wattled Bat",
+      "Calinolobo"
+    ],
+    "primary_name": "Frosted Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Chalinolobus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432285",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432462,
+    "scientific_name": "Myotis bombinus",
+    "common_names": [
+      "Ratonero abejorro",
+      "Far Eastern Myotis"
+    ],
+    "primary_name": "Ratonero abejorro",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432462",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432132,
+    "scientific_name": "Microgale talazaci",
+    "common_names": [
+      "Talazacs shrew tenrec",
+      "Talazac's shrew tenrec",
+      "Talazac's Shrew Tenrec"
+    ],
+    "primary_name": "Talazacs shrew tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432132",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432442,
+    "scientific_name": "Myotis australis",
+    "common_names": [
+      "Ustrailian Myotis",
+      "Australian Myotis"
+    ],
+    "primary_name": "Ustrailian Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432442",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432520,
+    "scientific_name": "Nyctophilus heran",
+    "common_names": [
+      "Sundan Long-eared Bat",
+      "Sunda long-eared bat",
+      "Sunda Long-eared Bat",
+      "Nictofila de Sonda"
+    ],
+    "primary_name": "Sundan Long-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Nyctophilus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432520",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432341,
+    "scientific_name": "Lasionycteris noctivagans",
+    "common_names": [
+      "Lasionicterio argentado",
+      "Lasionicterio",
+      "Silberhaarfledermaus",
+      "Black Bat",
+      "Silver Bat"
+    ],
+    "primary_name": "Lasionicterio argentado",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Lasionycteris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432341",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432300,
+    "scientific_name": "Histiotus macrotus",
+    "common_names": [
+      "Common Big-eared Brown Bat",
+      "Big-eared Brown Bat",
+      "Histiotus orejudo"
+    ],
+    "primary_name": "Common Big-eared Brown Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Histiotus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432300",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432346,
+    "scientific_name": "Eptesicus bottae",
+    "common_names": [
+      "Eptesicus de Botta",
+      "Botta's Serotine",
+      "Botta's Serotine Bat",
+      "Botta’s Serotine",
+      "Botta's serotine"
+    ],
+    "primary_name": "Eptesicus de Botta",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432346",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432352,
+    "scientific_name": "Eptesicus fuscus",
+    "common_names": [
+      "Big Brown Bat",
+      "Eptesicus bruno",
+      "Grol 3 e Braune Breitfligelfledermaus",
+      "Eptesicus Bruno",
+      "Grol 3 E Braune Breitfligelfledermaus"
+    ],
+    "primary_name": "Big Brown Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432352",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432435,
+    "scientific_name": "Myotis keenii",
+    "common_names": [
+      "Keen-mausohr",
+      "Murin De Keen",
+      "Keen’s Myotis",
+      "Keen's Myotis"
+    ],
+    "primary_name": "Keen-mausohr",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432435",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432330,
+    "scientific_name": "Murina leucogaster",
+    "common_names": [
+      "Greater Tube-nosed Bat",
+      "Ratonero narizudo de vientre blanco",
+      "Rufous Tube-nosed Bat"
+    ],
+    "primary_name": "Greater Tube-nosed Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Murina"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432330",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432403,
+    "scientific_name": "Myotis chinensis",
+    "common_names": [
+      "Ratonero de China",
+      "Large Myotis"
+    ],
+    "primary_name": "Ratonero de China",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432403",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432316,
+    "scientific_name": "Pharotis imogene",
+    "common_names": [
+      "New Guinea big-eared bat",
+      "New Guinea Big-eared Bat",
+      "Great Evening Bat",
+      "Pharotis de Nueva Guinea",
+      "Grofl 3 e Abendfledermaus"
+    ],
+    "primary_name": "New Guinea big-eared bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Pharotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432316",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432431,
+    "scientific_name": "Myotis ikonnikovi",
+    "common_names": [
+      "Ikonnikov's Whiskered Bat",
+      "Ikonnikov's Myotis",
+      "Ikonnikov’ ' s Myotis",
+      "Ikonnikov's Bat",
+      "Ratonero de lkonnikov"
+    ],
+    "primary_name": "Ikonnikov's Whiskered Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "Ikonnikov's bat (Myotis ikonnikovi) is a species of vesper bat.  An adult Ikonnikov's bat has a body length of 4.2–5.1 cm, a tail of 3.1–4.0 cm, and a wing length of 3.3–3.6 cm.  It is found in eastern Siberia, the Ussuri region, Sakhalin, Hokkaido and Honshu (Japan), and the Korean Peninsula.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432431",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ikonnikov's_bat",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432122,
+    "scientific_name": "Microgale gracilis",
+    "common_names": [
+      "Gracile Shrew Tenrec",
+      "Tenrec musarana gracil",
+      "Long-nosed shrew tenrec",
+      "Microgale gracile",
+      "Schlanker Kleintenrek"
+    ],
+    "primary_name": "Gracile Shrew Tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432122",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432137,
+    "scientific_name": "Microgale dryas",
+    "common_names": [
+      "Microgale dryade",
+      "Dryad Shrew Tenrec",
+      "Dryaden-Kleintenrek",
+      "Tenrec musarana de Driade",
+      "Tree Shrew Tenrec"
+    ],
+    "primary_name": "Microgale dryade",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432137",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432510,
+    "scientific_name": "Miniopterus minor",
+    "common_names": [
+      "Least Bent-winged Bat",
+      "Least Long-fingered Bat",
+      "Miniéptero menor",
+      "Miniéptero"
+    ],
+    "primary_name": "Least Bent-winged Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Miniopteridae",
+      "genus": "Miniopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432510",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432399,
+    "scientific_name": "Myotis thysanodes",
+    "common_names": [
+      "Ratonero de flecos",
+      "Fringed Myotis"
+    ],
+    "primary_name": "Ratonero de flecos",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432399",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432529,
+    "scientific_name": "Hesperoptenus tomesi",
+    "common_names": [
+      "Large False Serotine",
+      "Tomes' False Serotine",
+      "Tomes's False Serotine",
+      "Hesperopteno de Tomes"
+    ],
+    "primary_name": "Large False Serotine",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Hesperoptenus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432529",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432392,
+    "scientific_name": "Myotis levis",
+    "common_names": [
+      "Yellowish Myotis",
+      "Ratonero amarillento"
+    ],
+    "primary_name": "Yellowish Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432392",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432133,
+    "scientific_name": "Microgale drouhardi",
+    "common_names": [
+      "Drouhard-Kleintenrek",
+      "Drouhard's Shrew Tenrec",
+      "Microgale de Drouhard",
+      "Drouhard’s Shrew Tenrec",
+      "Drouhard s Shrew Tenrec"
+    ],
+    "primary_name": "Drouhard-Kleintenrek",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432133",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432119,
+    "scientific_name": "Microgale thomasi",
+    "common_names": [
+      "Thomas's Shrew Tenrec",
+      "Tenrec musarana de Thomas",
+      "Thomas' Shrew Tenrec",
+      "Thomas' shrew tenrec",
+      "Microgale de Thomas"
+    ],
+    "primary_name": "Thomas's Shrew Tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432119",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432513,
+    "scientific_name": "Glischropus javanus",
+    "common_names": [
+      "Pipistrela de Java",
+      "Javan Thick-thumbed Bat",
+      "Pipistrela"
+    ],
+    "primary_name": "Pipistrela de Java",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Glischropus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432513",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432385,
+    "scientific_name": "Myotis riparius",
+    "common_names": [
+      "Riparian Myotis",
+      "Ratonero ripario"
+    ],
+    "primary_name": "Riparian Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432385",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432190,
+    "scientific_name": "Calcochloris obtusirostris",
+    "common_names": [
+      "Yellow Golden Mole",
+      "Yellow golden mole",
+      "Topo dorado amarillo"
+    ],
+    "primary_name": "Yellow Golden Mole",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Chrysochloridae",
+      "genus": "Calcochloris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "The yellow golden mole (Calcochloris obtusirostris) is a species of mammal in the family Chrysochloridae. It is found in Mozambique, South Africa (KwaZulu-natal and the Limpopo), and Zimbabwe. The yellow golden mole's natural habitats are subtropical or tropical dry and moist lowland forests, savanna, arable land, pasture, plantations, and rural gardens.\nThe C. o. chrysillus subspecies occurs in coastal forests, savannas and northern KwaZulu-natal. All species of Calcochloris live close to human settlements and thrive in urban gardens and rural places.\nYellow golden moles are likely to dig at the base of trees and create underground \"nest\" in which they forage for food. Its diet mainly consists of insects, small lizards, flies, and other tiny animals found underground.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432190",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Yellow_golden_mole",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432291,
+    "scientific_name": "Chalinolobus picatus",
+    "common_names": [
+      "Little Pied Bat",
+      "Calinolobo pequeno",
+      "Calinolobo",
+      "Pied Bat"
+    ],
+    "primary_name": "Little Pied Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Chalinolobus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432291",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432272,
+    "scientific_name": "Rhogeessa genowaysi",
+    "common_names": [
+      "Genoways's Yellow Bat",
+      "Genoways’s Yellow Bat",
+      "Rogesa de Genoways"
+    ],
+    "primary_name": "Genoways's Yellow Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Rhogeessa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432272",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432525,
+    "scientific_name": "Idionycteris phyllotis",
+    "common_names": [
+      "Allen’s Big-eared Bat",
+      "Mexican Big-eared Bat",
+      "Allen's Big-eared Bat",
+      "Lappet-browed Bat"
+    ],
+    "primary_name": "Allen’s Big-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Idionycteris"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432525",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432307,
+    "scientific_name": "Laephotis angolensis",
+    "common_names": [
+      "Angolan long-eared bat",
+      "Laefotis de Angola",
+      "Laefotis",
+      "Angolan Long-eared Serotine",
+      "Angolan Long-eared Bat"
+    ],
+    "primary_name": "Angolan long-eared bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Laephotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432307",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432339,
+    "scientific_name": "Antrozous pallidus",
+    "common_names": [
+      "Antrozo palido",
+      "Pallid Bat",
+      "pallid bat",
+      "Antrozo"
+    ],
+    "primary_name": "Antrozo palido",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Antrozous"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432339",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432469,
+    "scientific_name": "Myotis welwitschii",
+    "common_names": [
+      "Welwitsch's Hairy Bat",
+      "Welwitch's Bat",
+      "Welwitch's bat",
+      "Welwitsch's Mouse-eared Bat",
+      "Ratonero de Welwitsch"
+    ],
+    "primary_name": "Welwitsch's Hairy Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432469",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432336,
+    "scientific_name": "Scotoecus albofuscus",
+    "common_names": [
+      "Scotoeco de alas palidas",
+      "Thomas's Lesser House Bat",
+      "Scotoeco",
+      "Thomas' House Bat",
+      "Light-winged Lesser House Bat"
+    ],
+    "primary_name": "Scotoeco de alas palidas",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Scotoecus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432336",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432470,
+    "scientific_name": "Myotis emarginatus",
+    "common_names": [
+      "Geoffroy's Bat",
+      "Geoftroy’s Myotis",
+      "Geoffroy’s Bat",
+      "Geoffroy's Myotis",
+      "Geoffroy's bat"
+    ],
+    "primary_name": "Geoffroy's Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432470",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432286,
+    "scientific_name": "Chalinolobus tuberculatus",
+    "common_names": [
+      "Calinolobo de Nueva Zelanda",
+      "New Zealand Long-tailed Bat",
+      "Long-tailed Bat",
+      "Calinolobo",
+      "Long-tailed Wattled Bat"
+    ],
+    "primary_name": "Calinolobo de Nueva Zelanda",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Chalinolobus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432286",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432488,
+    "scientific_name": "Corynorhinus mexicanus",
+    "common_names": [
+      "Orejudo",
+      "Orejudo de México",
+      "Mexican Big-eared Bat"
+    ],
+    "primary_name": "Orejudo",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Corynorhinus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432488",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432408,
+    "scientific_name": "Myotis dominicensis",
+    "common_names": [
+      "Ratonero dominicano",
+      "Dominican Myotis"
+    ],
+    "primary_name": "Ratonero dominicano",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432408",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432402,
+    "scientific_name": "Myotis scotti",
+    "common_names": [
+      "Scott's Hairy Bat",
+      "Scott's Myotis",
+      "Scott's Mouse-eared Bat",
+      "Ratonero de Scott"
+    ],
+    "primary_name": "Scott's Hairy Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432402",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432423,
+    "scientific_name": "Myotis stalkeri",
+    "common_names": [
+      "Ratonero de Stalker",
+      "Stalker's Myotis",
+      "Stalker’s Myotis",
+      "Kei Myotis",
+      "Moluccan Mouse-eared Bat"
+    ],
+    "primary_name": "Ratonero de Stalker",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432423",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432135,
+    "scientific_name": "Microgale soricoides",
+    "common_names": [
+      "Microgale sorigoide",
+      "Shrew-toothed Shrew Tenrec",
+      "Tenrec musarana de dientes de musarana",
+      "Shrew Tenrec",
+      "Spitzmaus-Kleintenrek"
+    ],
+    "primary_name": "Microgale sorigoide",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432135",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432439,
+    "scientific_name": "Myotis daubentonii",
+    "common_names": [
+      "Daubenton's Bat",
+      "Daubenton's Myotis",
+      "Daubenton's bat",
+      "Daubenton’s Bat",
+      "Daubenton’s Myotis"
+    ],
+    "primary_name": "Daubenton's Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432439",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432433,
+    "scientific_name": "Myotis oreias",
+    "common_names": [
+      "Singapore Whiskered Bat",
+      "Singapore whiskered bat",
+      "Singaporese Whiskered Myotis"
+    ],
+    "primary_name": "Singapore Whiskered Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432433",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432415,
+    "scientific_name": "Myotis goudotii",
+    "common_names": [
+      "Malagasy Mouse-eared Bat",
+      "Malagasy mouse-eared bat",
+      "Ratonero de Madagascar",
+      "Malagasy Myotis"
+    ],
+    "primary_name": "Malagasy Mouse-eared Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432415",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432270,
+    "scientific_name": "Rhogeessa tumida",
+    "common_names": [
+      "Black-winged Little Yellow Bat",
+      "Rogesa",
+      "Central American Yellow Bat",
+      "Rogesa de alas negras"
+    ],
+    "primary_name": "Black-winged Little Yellow Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Rhogeessa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432270",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432351,
+    "scientific_name": "Eptesicus guadeloupensis",
+    "common_names": [
+      "Guadeloupe Serotine",
+      "Guadeloupean Big Brown Bat",
+      "Guadeloupe Big Brown Bat",
+      "Eptesicus de Guadalupe",
+      "Guadeloupe big brown bat"
+    ],
+    "primary_name": "Guadeloupe Serotine",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432351",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432519,
+    "scientific_name": "Nyctophilus geoffroyi",
+    "common_names": [
+      "Nictofila de Geoffroy",
+      "Lesser Long-eared Bat"
+    ],
+    "primary_name": "Nictofila de Geoffroy",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Nyctophilus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432519",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432147,
+    "scientific_name": "Potamogale velox",
+    "common_names": [
+      "giant otter shrew",
+      "Giant Otter Shrew",
+      "Giant otter shrew",
+      "Giant Otter-shrew",
+      "Musarana nutria gigante"
+    ],
+    "primary_name": "giant otter shrew",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Potamogale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432147",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432504,
+    "scientific_name": "Miniopterus fraterculus",
+    "common_names": [
+      "Minidptero",
+      "Lesser Long-fingered Bat",
+      "Lesser Bent-winged Bat",
+      "Black Clinging Bat",
+      "Minidptero pequeno"
+    ],
+    "primary_name": "Minidptero",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Miniopteridae",
+      "genus": "Miniopterus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432504",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432452,
+    "scientific_name": "Myotis dasycneme",
+    "common_names": [
+      "Pond Bat"
+    ],
+    "primary_name": "Pond Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432452",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432389,
+    "scientific_name": "Myotis nattereri",
+    "common_names": [
+      "Murciélago de Natterer"
+    ],
+    "primary_name": "Murciélago de Natterer",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432389",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432374,
+    "scientific_name": "Eptesicus floweri",
+    "common_names": [
+      "Eptesicus de Flower",
+      "Flower's Serotine",
+      "Horn-skinned Serotine",
+      "Flower’s Serotine",
+      "Horn-skinned Bat"
+    ],
+    "primary_name": "Eptesicus de Flower",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Eptesicus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432374",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432458,
+    "scientific_name": "Myotis findleyi",
+    "common_names": [
+      "Findley’s Myotis",
+      "Ratonero de Findley",
+      "Findley's Myotis"
+    ],
+    "primary_name": "Findley’s Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432458",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432468,
+    "scientific_name": "Myotis peninsularis",
+    "common_names": [
+      "Peninsular Myotis",
+      "Ratonero del Cabo San Lucas"
+    ],
+    "primary_name": "Peninsular Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432468",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432284,
+    "scientific_name": "Chalinolobus gouldii",
+    "common_names": [
+      "Gould’s Wattled Bat",
+      "Calinolobo de Gould",
+      "Gould's Wattled Bat"
+    ],
+    "primary_name": "Gould’s Wattled Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Chalinolobus"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "Gould's wattled bat (Chalinolobus gouldii) is a species of Australian wattled bat named after the English naturalist John Gould.",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432284",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gould's_wattled_bat",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432130,
+    "scientific_name": "Microgale longicaudata",
+    "common_names": [
+      "Lesser long-tailed shrew tenrec",
+      "Lesser Long-tailed Shrew Tenrec"
+    ],
+    "primary_name": "Lesser long-tailed shrew tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432130",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432273,
+    "scientific_name": "Rhogeessa parvula",
+    "common_names": [
+      "Rogesa",
+      "Little Yellow Bat",
+      "Rogesa nortena pequena",
+      "Northern Little Yellow Bat"
+    ],
+    "primary_name": "Rogesa",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Rhogeessa"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432273",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432432,
+    "scientific_name": "Myotis grisescens",
+    "common_names": [
+      "Gray Bat",
+      "Grey Bat",
+      "gray bat",
+      "Ratonero gris",
+      "Gray Myotis"
+    ],
+    "primary_name": "Gray Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432432",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432120,
+    "scientific_name": "Microgale fotsifotsy",
+    "common_names": [
+      "Microgale pale",
+      "Pale Shrew",
+      "Fahler Kleintenrek",
+      "Pale Shrew Tenrec",
+      "Pale-footed Shrew Tenrec"
+    ],
+    "primary_name": "Microgale pale",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432120",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432142,
+    "scientific_name": "Hemicentetes nigriceps",
+    "common_names": [
+      "Highland streaked tenrec",
+      "Tenrec a téte noire",
+      "Highland Streaked Tenrec",
+      "Tenrec listado de tierras altas",
+      "Schwarzkopf-Streifentenrek"
+    ],
+    "primary_name": "Highland streaked tenrec",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Hemicentetes"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432142",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432434,
+    "scientific_name": "Myotis simus",
+    "common_names": [
+      "Velvety Myotis",
+      "Ratonero aterciopelado"
+    ],
+    "primary_name": "Velvety Myotis",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432434",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432440,
+    "scientific_name": "Myotis macrotarsus",
+    "common_names": [
+      "Blasse Langful 3 fledermaus",
+      "Ratonero de las Filipinas",
+      "Pallid Large-footed Myotis",
+      "Philippine Large-footed Myotis",
+      "Philippine Large-toothed Myotis"
+    ],
+    "primary_name": "Blasse Langful 3 fledermaus",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432440",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432126,
+    "scientific_name": "Microgale gymnorhyncha",
+    "common_names": [
+      "Microgale a museau nu",
+      "Tenrec musarana de hocico desnudo",
+      "Naked-nosed Shrew Tenrec",
+      "Nacktnasen-Kleintenrek"
+    ],
+    "primary_name": "Microgale a museau nu",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Afrosoricida",
+      "family": "Tenrecidae",
+      "genus": "Microgale"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432126",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432418,
+    "scientific_name": "Myotis sodalis",
+    "common_names": [
+      "Indiana bat",
+      "Indiana Bat",
+      "Indiana-mausohr",
+      "Cluster Bat",
+      "Indiana Myotis"
+    ],
+    "primary_name": "Indiana bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432418",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  },
+  {
+    "species_id": 2432430,
+    "scientific_name": "Myotis capaccinii",
+    "common_names": [
+      "Long-fingered Bat",
+      "Langful 3 fledermaus",
+      "Long-fingered Myotis"
+    ],
+    "primary_name": "Long-fingered Bat",
+    "taxonomic_group": "mammals",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Chiroptera",
+      "family": "Vespertilionidae",
+      "genus": "Myotis"
+    },
+    "conservation_status": "",
+    "geographic_regions": [],
+    "observation_count": 0,
+    "description": {
+      "introduction": "",
+      "physical_description": "",
+      "habitat": "",
+      "behavior": "",
+      "diet": "",
+      "reproduction": "",
+      "conservation": ""
+    },
+    "sources": {
+      "gbif_url": "https://www.gbif.org/species/2432430",
+      "wikipedia_url": "",
+      "inaturalist_url": ""
+    }
+  }
+]

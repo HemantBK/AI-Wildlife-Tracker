@@ -1,0 +1,12 @@
+{
+  "total_species": 1235,
+  "by_group": {
+    "birds": 394,
+    "unknown": 641,
+    "mammals": 200
+  },
+  "with_description": 92,
+  "with_habitat": 27,
+  "with_conservation": 102,
+  "with_regions": 82
+}

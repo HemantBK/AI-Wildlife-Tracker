@@ -1,0 +1,89 @@
+[project]
+name = "wildlife-tracker"
+version = "1.0.0"
+description = "AI-powered Indian wildlife species identification using RAG"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+readme = "README.md"
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle errors
+    "W",    # pycodestyle warnings
+    "F",    # pyflakes
+    "I",    # isort
+    "N",    # pep8-naming
+    "UP",   # pyupgrade
+    "B",    # flake8-bugbear
+    "SIM",  # flake8-simplify
+    "TCH",  # flake8-type-checking
+]
+ignore = [
+    "E501",   # line too long (handled by formatter)
+    "B008",   # do not perform function calls in argument defaults (FastAPI)
+    "SIM108", # use ternary operator (readability)
+    "UP007",  # use X | Y instead of Optional (py3.10 compat)
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["src"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+docstring-code-format = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+    "ignore::UserWarning",
+]
+markers = [
+    "slow: marks tests as slow (deselect with '-m not slow')",
+    "integration: marks tests requiring external services",
+    "e2e: marks end-to-end tests requiring full pipeline",
+]
+
+[tool.coverage.run]
+source = ["src"]
+omit = [
+    "src/frontend/*",
+    "src/ingestion/*",
+    # External-service modules (ChromaDB, Groq, Ollama, ONNX) — untestable in CI
+    "src/rag/pipeline.py",
+    "src/rag/generator.py",
+    "src/rag/reranker.py",
+    "src/rag/onnx_reranker.py",
+    "src/rag/vision.py",
+    "src/retrieval/bm25_index.py",
+    "src/retrieval/build_indexes.py",
+    "src/retrieval/embedder.py",
+    "src/retrieval/hybrid_search.py",
+    "src/retrieval/onnx_embedder.py",
+    "src/preprocessing/cleaner.py",
+    # Evaluator orchestrates full pipeline runs — tested via make eval
+    "src/evaluation/evaluator.py",
+    "src/evaluation/ragas_evaluator.py",
+    "*/test_*",
+]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "if __name__ == .__main__.",
+    "raise NotImplementedError",
+    "pass",
+    "except ImportError",
+]
+show_missing = true
+fail_under = 50

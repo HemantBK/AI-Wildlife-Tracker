@@ -1,0 +1,54 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.egg-info
+.eggs
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing & CI
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Notebooks (not needed in production)
+notebooks/
+*.ipynb
+
+# Documentation
+*.md
+!README.md
+LICENSE
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# Environment (should be passed via docker-compose)
+.env
+
+# Large data files (mounted as volume instead)
+data/raw/
+data/evaluation/
+
+# Pre-commit
+.pre-commit-config.yaml
+.secrets.baseline
+
+# OS
+.DS_Store
+Thumbs.db

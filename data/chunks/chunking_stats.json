@@ -1,0 +1,21 @@
+{
+  "total_chunks": 223,
+  "species_with_chunks": 92,
+  "species_without_chunks": 1143,
+  "chunks_by_section": {
+    "Overview": 93,
+    "Physical Description": 40,
+    "Habitat & Distribution": 28,
+    "Diet & Feeding": 13,
+    "Reproduction & Breeding": 15,
+    "Behavior & Ecology": 20,
+    "Conservation Status": 14
+  },
+  "avg_tokens_per_chunk": 149.13452914798205,
+  "min_tokens": 24,
+  "max_tokens": 547,
+  "chunks_by_group": {
+    "birds": 208,
+    "mammals": 15
+  }
+}

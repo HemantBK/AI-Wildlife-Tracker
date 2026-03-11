@@ -1,0 +1,153 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+
+env:
+  PYTHON_VERSION: "3.11"
+  INFERENCE_MODE: "groq"
+  LOG_FORMAT: "json"
+  LOG_LEVEL: "INFO"
+
+jobs:
+  # ──────────────────────────────────────────────────
+  # Job 1: Lint & Format Check
+  # ──────────────────────────────────────────────────
+  lint:
+    name: Lint & Format
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install linting tools
+        run: pip install ruff
+
+      - name: Run Ruff linter
+        run: ruff check src/ tests/ --output-format=github
+
+      - name: Run Ruff formatter check
+        run: ruff format --check src/ tests/
+
+  # ──────────────────────────────────────────────────
+  # Job 2: Unit Tests
+  # ──────────────────────────────────────────────────
+  test:
+    name: Unit Tests
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install ruff pytest-cov httpx
+
+      - name: Run unit tests
+        run: |
+          pytest tests/ -v \
+            --tb=short \
+            --cov=src \
+            --cov-report=term-missing \
+            --cov-report=xml:coverage.xml \
+            -x
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
+      - name: Upload coverage report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-report
+          path: coverage.xml
+
+  # ──────────────────────────────────────────────────
+  # Job 3: Evaluation Gate (on PR to main only)
+  # ──────────────────────────────────────────────────
+  eval-gate:
+    name: Evaluation Gate
+    runs-on: ubuntu-latest
+    needs: test
+    if: github.event_name == 'pull_request' && github.base_ref == 'main'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Check data artifacts exist
+        run: |
+          echo "Checking for required data artifacts..."
+          if [ ! -d "data/chunks" ]; then
+            echo "::warning::No chunk data found. Skipping eval gate."
+            echo "SKIP_EVAL=true" >> $GITHUB_ENV
+          fi
+
+      - name: Run quick evaluation
+        if: env.SKIP_EVAL != 'true'
+        run: |
+          python -m src.evaluation.evaluator --quick --ci
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          INFERENCE_MODE: groq
+
+      - name: Upload evaluation results
+        if: always() && env.SKIP_EVAL != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: eval-results
+          path: data/evaluation/
+
+  # ──────────────────────────────────────────────────
+  # Job 4: Build Check (verify imports work)
+  # ──────────────────────────────────────────────────
+  build-check:
+    name: Build Check
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify module imports
+        run: |
+          python -c "from src.api.main import create_app; print('API: OK')"
+          python -c "from src.monitoring.tracing import is_tracing_enabled; print('Tracing: OK')"
+          python -c "from src.monitoring.alerts import AlertChecker; print('Alerts: OK')"
+          python -c "from src.monitoring.logging_config import setup_logging; print('Logging: OK')"
+          python -c "from src.evaluation.golden_dataset import get_golden_dataset; print('Eval: OK')"
+          python -c "from src.api.feedback import FeedbackStore; print('Feedback: OK')"
+          echo "All imports verified successfully!"
